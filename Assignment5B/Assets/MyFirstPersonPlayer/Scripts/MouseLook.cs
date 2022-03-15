@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Luke Hensley)
+ * (Assignment 5B)
+ * (Controls camera movement)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
